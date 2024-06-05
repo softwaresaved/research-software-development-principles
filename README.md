@@ -1,7 +1,7 @@
 # Research Software Development Principles
 Contact @npch
 
-![doi:10.5281/zenodo.11494174](https://zenodo.org/badge/doi/10.5281/zenodo.11494174.svg)
+![doi:10.5281/zenodo.11494173](https://zenodo.org/badge/doi/10.5281/zenodo.11494173.svg)
 
 The [Research Software Development Principles](principles.md) are a short set of goals we believe every research software project should strive for, 
 that if many projects and organisations collectively adopted them, would make research software better for all. 
@@ -10,7 +10,7 @@ They were first released at the 2023 Research Software Engineering Conference (R
 
 ## Citing the principles
 
-Chue Hong, N. (2023). Research Software Development Principles. Zenodo. https://doi.org/10.5281/zenodo.11494174
+Chue Hong, N. (2023). Research Software Development Principles. Zenodo. https://doi.org/10.5281/zenodo.11494173
 
 ## Acknowledgements
 
