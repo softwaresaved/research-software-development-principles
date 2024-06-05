@@ -6,6 +6,10 @@ that if many projects and organisations collectively adopted them, would make re
 
 They were first released at the 2023 Research Software Engineering Conference (RSECon23).
 
+## Citing the principles
+
+10.5281/zenodo.11494174
+
 ## Acknowledgements
 
 These principles were originally drafted by Neil Chue Hong, with contributions from Aleksandra Nenadic, Giacomo Peru, Selina Aragon, 
