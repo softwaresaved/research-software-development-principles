@@ -10,7 +10,7 @@ They were first released at the 2023 Research Software Engineering Conference (R
 
 ## Citing the principles
 
-Chue Hong, N. (2023). Research Software Development Principles. Zenodo. https://doi.org/10.5281/zenodo.11494173
+Chue Hong, N. (2023). Research Software Development Principles (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.11494174
 
 ## Acknowledgements
 
