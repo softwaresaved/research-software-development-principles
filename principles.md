@@ -1,4 +1,5 @@
 # Research Software Development Principles
+Author: Neil Chue Hong
 
 ## Background
 In 2015 the United Nations General Assembly (UNGA) formulated the 
@@ -33,4 +34,6 @@ _Helping the world_
  - 8 **Open & global**: Transcend national and discipline boundaries
  - 9 **Humanist**: Unbiased, ethical and in support of humanity
 
-Version 1.0 (5 September 2023)
+Version 1.0 (5 September 2023) - 
+(c) 2023 University of Edinburgh. Licensed under CC BY-SA 4.0.
+https://doi.org/10.5281/zenodo.11494174
