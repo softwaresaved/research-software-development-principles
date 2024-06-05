@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this document, please cite it as below."
+authors:
+- family-names: "Chue Hong"
+  given-names: "Neil P."
+  orcid: "https://orcid.org/0000-0002-8876-7606"
+title: "Research Software Development Principles"
+version: 1.0.0
+doi: 10.5281/zenodo.11494174
+date-released: 2023-09-06
+url: "https://github.com/softwaresaved/research-software-development-principles"
